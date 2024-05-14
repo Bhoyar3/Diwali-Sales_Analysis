@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis_bypython
+# Diwali_Sales_Analysis_Python
 This repository contains the code and analysis for the Diwali Sales data analysis project. The project focuses on analyzing sales data during the Diwali festive season using Python's pandas, seaborn, and matplotlib libraries.
 
 # Project Overview
