@@ -5,7 +5,7 @@ This repository contains the code and analysis for the Diwali Sales data analysi
 
 <h2><p align= "left"><b> Dataset Used </b></p></h2>
 <ul>
-  <li><a href"  "></li>
+  <li><a href"https://github.com/Bhoyar3/Diwali-Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"></li>
 </ul>
 
 <h2><p align= "left"><b>Skills Demonstrated </b></p></h2>
@@ -34,4 +34,5 @@ This repository contains the code and analysis for the Diwali Sales data analysi
 <li>Most of the buyers are working in IT, Healthcare, Aviation, Banking and Govt sectors.</li>
 <li>And most of the ordered products are in the Clothing, Food and Electronics Category.</li>
 </ul>
+<h2> <p align="left"><I> Thank you </I> </p></h2>
 
