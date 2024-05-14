@@ -5,7 +5,7 @@ This repository contains the code and analysis for the Diwali Sales data analysi
 
 <h2><p align= "left"><b> Dataset Used </b></p></h2>
 <ul>
-  <li><a href"https://github.com/Bhoyar3/Diwali-Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"> Diwali Sales Dataset </a></li>
+  <li><a href= "https://github.com/Bhoyar3/Diwali-Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"> Diwali Sales Dataset </a></li>
 </ul>
 
 <h2><p align= "left"><b>Skills Demonstrated </b></p></h2>
