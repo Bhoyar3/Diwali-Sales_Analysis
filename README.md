@@ -1,11 +1,11 @@
 <h1 align=" center"> Diwali_Sales_Analysis_Python  </h1>
 
-<h3> <p align="left"><b>Project Overview </b></p></h3>
+<h2> <p align="left"><b>Project Overview </b></p></h2>
 This repository contains the code and analysis for the Diwali Sales data analysis project. The project focuses on analyzing sales data during the Diwali festive season using Python's pandas, seaborn, and matplotlib libraries. The goal of this project is to explore and analyze the sales data during the Diwali season to gain insights and understand sales patterns, customer behavior, and product performance. The analysis involves various data manipulation, data cleaning and visualization.
 
 <h2><p align= "left"><b> Dataset Used </b></p></h2>
 <ul>
-  <li><a href"https://github.com/Bhoyar3/Diwali-Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"></li>
+  <li>Here is the Dataset.<a href"https://github.com/Bhoyar3/Diwali-Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"></li>
 </ul>
 
 <h2><p align= "left"><b>Skills Demonstrated </b></p></h2>
@@ -34,5 +34,5 @@ This repository contains the code and analysis for the Diwali Sales data analysi
 <li>Most of the buyers are working in IT, Healthcare, Aviation, Banking and Govt sectors.</li>
 <li>And most of the ordered products are in the Clothing, Food and Electronics Category.</li>
 </ul>
-<h2> <p align="left"><I> Thank you </I> </p></h2>
+<h3> <p align="left"><I> Thank you </I> </p></h3>
 
